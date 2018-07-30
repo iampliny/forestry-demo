@@ -1,0 +1,11 @@
+---
+label: Test Template
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: main_text_goes_here
+  label: Main Text Goes Here
+- type: textarea
+  name: what_is_happening
+  label: what is happening
